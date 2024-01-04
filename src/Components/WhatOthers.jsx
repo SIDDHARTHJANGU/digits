@@ -36,9 +36,9 @@ const WhatOthers = () => {
             <Col lg={4} md={6} sm={12}>
               <div className=" secfive_card" data-aos="fade-up">
                 <p className=" fs_18 fw_400 ff_halyard_text cardpara_linehight pb-3 text-center text-lg-start">
-                  Completely beautiful website and amazing support! This my
-                  second website from this author and I love both of the sites
-                  so much and she has helped me so well when I needed it!
+                  Really easy to use and customize. This is my second website
+                  easy to understand. Darinka helped me with my site! She
+                  answers very quickly, a good service! Thank you very much!
                 </p>
                 <div className=" d-flex flex-column  align-items-center mt_39">
                   <img src={happytwo} alt="img" />
@@ -60,9 +60,9 @@ const WhatOthers = () => {
             >
               <div className=" secfive_card">
                 <p className=" fs_18 fw_400 ff_halyard_text cardpara_linehight pb-3 text-center text-lg-start">
-                  Completely beautiful website and amazing support! This my
-                  second website from this author and I love both of the sites
-                  so much and she has helped me so well when I needed it!
+                  Really pleasing to look at! Documentation (including
+                  installation instructions) a good service Documentation are
+                  clear a good service and that relatively new WordPress user.
                 </p>
                 <div className=" d-flex flex-column  align-items-center mt_39">
                   <img src={happythree} alt="img" />

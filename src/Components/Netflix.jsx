@@ -9,7 +9,7 @@ import secseven_img from "../assets/image/disiney.svg";
 import Marquee from "react-fast-marquee";
 const Netflix = () => {
   return (
-    <div id="Products" className=" mt-sm-5 pt-5 pt-lg-1 ">
+    <div id="Products" className=" mt-sm-5 pt-5 pt-lg-5 ">
       <div className=" Custom_container mt-5 pt-5">
         <div className=" text-center" data-aos="fade-down">
           <h2 className=" ff_halyard_text fs_16 fw_400 Trusted_clr ">
